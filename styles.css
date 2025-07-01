@@ -14,8 +14,7 @@ thead,
 tfoot {
   background-color: rgb(228 240 245);
 }
-th,
-td {
+th,td {
   border: 1px solid rgb(160 160 160);
   padding: 8px 10px;
 }
