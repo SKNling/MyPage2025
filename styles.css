@@ -32,8 +32,11 @@ table {
     font-weight: bold;
   }
 
+body {
+    background-color: rgb(255, 255, 191);
+}
 
-mg {
+img {
  width: 400px;
  height: 400px;
  border-radius: 50%;
